@@ -1,0 +1,30 @@
+STICKER BOT Instructions:
+
+
+pip install selenium
+pip install pynput
+(In case these libraries are missing)
+
+
+
+If you are using a browser other than chrome:
+https://selenium-python.readthedocs.io/installation.html 
+Download the respective driver, put it in the same folder, and make the following changes to the code:
+
+driver = webdriver.Edge/Chrome/Safari/Firefox("driver.exe")
+
+
+
+
+Now login to whatsapp web and press any key on your keyboard to start the spam.
+
+P.S: The chat names are case sensitive, copy paste them.
+
+
+
+
+
+
+Made by:
+Darahaas Yajamanyam
+Aditya Agrawal
