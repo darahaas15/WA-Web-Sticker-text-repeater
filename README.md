@@ -28,3 +28,9 @@ P.S: The chat names are case sensitive, copy paste them.
 Made by:
 Darahaas Yajamanyam
 Aditya Agrawal
+
+
+TEXT BOT Instructions:
+pip install pyautogui
+Enter whatever text you want into the .txt file
+Start the program and switch to a text input field(Like a whatsapp/discord chatbox)
