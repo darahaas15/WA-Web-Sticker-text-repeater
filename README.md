@@ -30,4 +30,4 @@ Enter whatever text you want into the .txt file
 Start the program and switch to a text input field(Like a whatsapp/discord chatbox)
 
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushpaine&count_private=true)
+![Bomesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=someshsingh22&count_private=true)
